@@ -4,11 +4,11 @@ It's a high-quality README Generator that contains information, description and 
 
 ## LINK TO THE REPOSITORY
 
-- The link is [README_GENERATOR](https://github.com/LShuqair/Homework2)
+- The link is [README_GENERATOR](https://github.com/LShuqair/README_Generator)
 
 
 ## LINK TO THE VIDEO
-- The link is [Homework2](file:///Users/lunashuqair/Desktop/Homework/Homework2/index.html)
+- The link is [README_GENERATOR](https://docs.google.com/presentation/d/1GROUUfO6vJO1MyVU9tzXu3f-VWpkUUNAJuyLJ6x-LF8/edit#slide=id.p)
 
 
 ## SCREENSHOTS

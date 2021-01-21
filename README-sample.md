@@ -1,10 +1,8 @@
-# README Generator
+# README_GENERATOR
   
- * [License](#license)
-
 
   ## Description
-  It's a high-quality README Generator that contains information, description and table of contents about the app.
+  it's a high quality readme generator
 
   ## Table of Contents
 
@@ -12,13 +10,9 @@
 
   * [Usage](#usage)
   
-  * [License](#license)
-
   * [Contributing](#contributing) 
 
   * [Tests](#tests)
-
-  * [License](#license)
 
   * [Questions](#questions) 
 
@@ -34,9 +28,7 @@
 
   nothing
 
-  ## License
-        
-    This project is licensed under the APACHE 2.0 license.
+  
 
   ## Contributing
 
@@ -52,7 +44,7 @@
 
   ## License
 
-  APACHE 2.0
+  undefined
 
   ## Questions
 
